@@ -1,4 +1,4 @@
-package $com.she.ivan;
+package com.ivan.she;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
